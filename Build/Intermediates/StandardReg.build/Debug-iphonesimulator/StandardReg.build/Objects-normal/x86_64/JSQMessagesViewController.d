@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Controllers/JSQMessagesViewController.m \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Controllers/JSQMessagesViewController.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesCollectionView.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Layout/JSQMessagesCollectionViewFlowLayout.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Model/JSQMessagesCollectionViewDelegateFlowLayout.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Model/JSQMessagesCollectionViewDataSource.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesCollectionViewCell.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesLabel.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesCellTextView.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesInputToolbar.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesToolbarContentView.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesComposerTextView.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Controllers/JSQMessagesKeyboardController.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Layout/JSQMessagesCollectionViewFlowLayoutInvalidationContext.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Model/JSQMessageData.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Model/JSQMessageMediaData.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Model/JSQMessageBubbleImageDataSource.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Model/JSQMessageAvatarImageDataSource.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesCollectionViewCellIncoming.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesCollectionViewCellOutgoing.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesTypingIndicatorFooterView.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Views/JSQMessagesLoadEarlierHeaderView.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Factories/JSQMessagesTimestampFormatter.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Categories/NSString+JSQMessages.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Categories/UIColor+JSQMessages.h \
+  /Users/craig/Repos/StandardReg/Vendors/JSQMessagesViewController/Categories/UIDevice+JSQMessages.h
